@@ -121,7 +121,7 @@ possible?
 
 ### Exercise 2.15
 * Write in full the declaration for a field of type `int` whose name is `status`.
-	- A: private int status
+	- A: private int status;
 
 ### Exercise 2.16
 * To what class does the following constructor belong?
